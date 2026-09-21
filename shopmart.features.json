@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "6a9aa7fcb0b179e9ce99abee"
+  },
+  "name": "Free Shipping",
+  "shortDescription": "Enjoy free and fast shipping on eligible orders with reliable delivery services. Shop your favorite products without worrying about additional shipping charges and receive your purchases safely at your doorstep within the promised delivery time.",
+  "icon": "<i class=\"bi bi-truck\"></i>",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6a9aa7fcb0b179e9ce99abef"
+  },
+  "name": "Secure Payment",
+  "shortDescription": "Make every purchase confidently with our secure payment system. Your payment information is protected using trusted security practices, allowing you to complete transactions safely through multiple convenient payment options without worrying about unauthorized access.",
+  "icon": "<i class=\"bi bi-shield-lock\"></i>",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6a9aa7fcb0b179e9ce99abf0"
+  },
+  "name": "Easy Returns",
+  "shortDescription": "Changed your mind about a purchase? Our simple return process makes it easy to return eligible products. Follow a few quick steps and get assistance from our support team whenever you need help with returns.",
+  "icon": "<i class=\"bi bi-arrow-return-left\"></i>",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6a9aa7fcb0b179e9ce99abf1"
+  },
+  "name": "Quality Products",
+  "shortDescription": "We carefully select products from trusted brands and sellers to maintain high quality standards. Every product is listed with accurate information so you can make confident purchasing decisions and enjoy reliable products delivered directly to your home.",
+  "icon": "<i class=\"bi bi-award\"></i>",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6a9aa7fcb0b179e9ce99abf2"
+  },
+  "name": "24/7 Support",
+  "shortDescription": "Our customer support team is available whenever you need assistance with orders, payments, deliveries, returns, or other questions. Get helpful guidance and quick solutions through our dedicated support service for a smooth shopping experience.",
+  "icon": "<i class=\"bi bi-headset\"></i>",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6a9aa7fcb0b179e9ce99abf3"
+  },
+  "name": "Best Prices",
+  "shortDescription": "Find great products at competitive prices across different categories. We regularly offer attractive deals, discounts, and special promotions to help you save money while shopping for quality products without compromising your overall shopping experience.",
+  "icon": "<i class=\"bi bi-tag\"></i>",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6a9aa7fcb0b179e9ce99abf4"
+  },
+  "name": "Fast Delivery",
+  "shortDescription": "Get your favorite products delivered quickly and reliably to your doorstep. Our efficient delivery process helps reduce waiting time while providing order updates, so you can easily track your package from purchase until successful delivery.",
+  "icon": "<i class=\"bi bi-box-seam\"></i>",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6a9aa7fcb0b179e9ce99abf5"
+  },
+  "name": "Secure Shopping",
+  "shortDescription": "Shop with confidence through a secure and user-friendly online shopping experience. Your account and personal information are handled carefully, while trusted security measures help protect your data throughout browsing, ordering, and completing purchases.",
+  "icon": "<i class=\"bi bi-cart-check\"></i>",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6a9aa7fcb0b179e9ce99abf6"
+  },
+  "name": "Wide Selection",
+  "shortDescription": "Explore a wide collection of products across multiple categories in one convenient place. From everyday essentials to popular lifestyle products, discover different options, compare your choices, and find products that match your needs and preferences.",
+  "icon": "<i class=\"bi bi-grid\"></i>",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6a9aa7fcb0b179e9ce99abf7"
+  },
+  "name": "Easy Ordering",
+  "shortDescription": "Place your orders quickly with our simple and convenient shopping process. Browse products, add your favorites to the cart, provide delivery details, and complete payment through an easy-to-use checkout experience without unnecessary steps.",
+  "icon": "<i class=\"bi bi-bag-check\"></i>",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6a9aa7fcb0b179e9ce99abf8"
+  },
+  "name": "Order Tracking",
+  "shortDescription": "Stay updated about your purchases with convenient order tracking. Check your order status and follow its delivery progress from confirmation and processing to shipment and final delivery, keeping you informed throughout the entire journey.",
+  "icon": "<i class=\"bi bi-geo-alt\"></i>",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6a9aa7fcb0b179e9ce99abf9"
+  },
+  "name": "Trusted Service",
+  "shortDescription": "We focus on providing dependable products, secure transactions, responsive support, and reliable delivery. Our goal is to make every shopping experience simple, transparent, and trustworthy so customers can shop comfortably and return whenever they need.",
+  "icon": "<i class=\"bi bi-hand-thumbs-up\"></i>",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6a9aa8bc5aa053b50e9e2783"
+  },
+  "name": "Rajan. Kushwaha",
+  "shortDescription": "hghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "icon": "<i class=\"bi bi-trash></i>",
+  "status": true,
+  "__v": 0
+}]

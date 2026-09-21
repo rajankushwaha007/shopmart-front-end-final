@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "66583744f4274a37aacea037"
+  },
+  "name": "Tommy Hilfiger",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057348826tommy-hilfiger.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66583757f4274a37aacea044"
+  },
+  "name": "NIke",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057367199nike.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6658375ef4274a37aacea04a"
+  },
+  "name": "Puma",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057374589puma.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66583765f4274a37aacea04e"
+  },
+  "name": "Gucci",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057381014gucci.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66583770f4274a37aacea053"
+  },
+  "name": "Zara",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057392142zara.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6658377cf4274a37aacea059"
+  },
+  "name": "Us Polo",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057404930U.S.-Polo-Assn-Logo.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66583785f4274a37aacea05f"
+  },
+  "name": "Cobb",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057413170images (1).png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66583791f4274a37aacea066"
+  },
+  "name": "Mufti",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057425184mufti.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6658379bf4274a37aacea06b"
+  },
+  "name": "Adidas",
+  "active": true,
+  "pic": "public\\uploads\\brand\\1717057435930adidas.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e93c1db46a1dd74c36601"
+  },
+  "name": "Samsung",
+  "status": true,
+  "pic": "public\\uploads\\brand\\1772000193135download (1).png",
+  "createdAt": {
+    "$date": "2026-02-25T06:16:33.139Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:16:33.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e93c9db46a1dd74c36609"
+  },
+  "name": "Boat",
+  "status": true,
+  "pic": "public\\uploads\\brand\\1772000201307download (2).png",
+  "createdAt": {
+    "$date": "2026-02-25T06:16:41.310Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:16:41.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e93d1db46a1dd74c36611"
+  },
+  "name": "Dell",
+  "status": true,
+  "pic": "public\\uploads\\brand\\1772000209728download (3).png",
+  "createdAt": {
+    "$date": "2026-02-25T06:16:49.730Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:16:49.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e93dcdb46a1dd74c36619"
+  },
+  "name": "HP ",
+  "status": true,
+  "pic": "public\\uploads\\brand\\1772000220090download (4).png",
+  "createdAt": {
+    "$date": "2026-02-25T06:17:00.096Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:17:00.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e93e6db46a1dd74c36621"
+  },
+  "name": "Asus",
+  "status": true,
+  "pic": "public\\uploads\\brand\\1772000230792download (5).png",
+  "createdAt": {
+    "$date": "2026-02-25T06:17:10.795Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:17:10.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e93f0db46a1dd74c36629"
+  },
+  "name": "Noise",
+  "status": true,
+  "pic": "public\\uploads\\brand\\1772000240115download (6).png",
+  "createdAt": {
+    "$date": "2026-02-25T06:17:20.118Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:17:20.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e93f7db46a1dd74c36631"
+  },
+  "name": "Realme",
+  "status": true,
+  "pic": "public\\uploads\\brand\\1772000247744download (7).png",
+  "createdAt": {
+    "$date": "2026-02-25T06:17:27.745Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:17:27.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e9400db46a1dd74c36639"
+  },
+  "name": "NIlkamal",
+  "status": true,
+  "pic": "public\\uploads\\brand\\1772000256941download (8).png",
+  "createdAt": {
+    "$date": "2026-02-25T06:17:36.944Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:17:36.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e940edb46a1dd74c36641"
+  },
+  "name": "Apple",
+  "status": true,
+  "pic": "public\\uploads\\brand\\1772000270423download.png",
+  "createdAt": {
+    "$date": "2026-02-25T06:17:50.424Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:17:50.424Z"
+  },
+  "__v": 0
+}]

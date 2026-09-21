@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "6aacdf4b99e73fb690d2ff8b"
+  },
+  "user": {
+    "$oid": "6a97c9caea8c40e3f7d28fac"
+  },
+  "deliveryAddress": {
+    "name": "Rajan Kushwaha",
+    "email": "rajankushwaha45998@gmail.com",
+    "phone": "9801475807",
+    "address": "A- 43 Ducat Sector 16, Noida ",
+    "pin": "202317",
+    "city": "Noida",
+    "state": "Uttar Pradesh"
+  },
+  "orderStatus": "Order Has Been Placed",
+  "paymentMode": "Netbaking",
+  "paymentStatus": "Pending",
+  "subtotal": 10966,
+  "shipping": 0,
+  "total": 10966,
+  "rppid": "",
+  "products": [
+    {
+      "product": {
+        "$oid": "66601852a94295cf3e05935f"
+      },
+      "color": "blue",
+      "size": "24",
+      "quantity": 1,
+      "total": 254,
+      "_id": {
+        "$oid": "6aacd6ad99e73fb690d2ff89"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601842a94295cf3e059357"
+      },
+      "color": "blue",
+      "size": "24",
+      "quantity": 1,
+      "total": 1100,
+      "_id": {
+        "$oid": "6aacc89b72057bc96ea94ddf"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601842a94295cf3e059359"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "quantity": 1,
+      "total": 1485,
+      "_id": {
+        "$oid": "6aabaa3329d76dea2090229f"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601842a94295cf3e05935a"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "quantity": 1,
+      "total": 1887,
+      "_id": {
+        "$oid": "6aaba98529d76dea2090229e"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601852a94295cf3e059360"
+      },
+      "color": "blue",
+      "size": "24",
+      "quantity": 1,
+      "total": 684,
+      "_id": {
+        "$oid": "6aaba7b929d76dea2090229d"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601852a94295cf3e059362"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "quantity": 1,
+      "total": 548,
+      "_id": {
+        "$oid": "6aaba68f29d76dea2090229c"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601848a94295cf3e05935e"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "quantity": 1,
+      "total": 456,
+      "_id": {
+        "$oid": "6aaba4ce29d76dea2090229b"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6660172f7679cfb24c3c2a3e"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "quantity": 1,
+      "total": 2475,
+      "_id": {
+        "$oid": "6aaba23429d76dea2090229a"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601858a94295cf3e059365"
+      },
+      "color": "blue",
+      "size": "24",
+      "quantity": 1,
+      "total": 1393,
+      "_id": {
+        "$oid": "6aaba22729d76dea20902299"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601852a94295cf3e059360"
+      },
+      "color": "blue",
+      "size": "24",
+      "quantity": 1,
+      "total": 684,
+      "_id": {
+        "$oid": "6aab9c3029d76dea20902298"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-09-18T06:50:51.802Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-18T06:50:51.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aacfe654c1eae8e665845ea"
+  },
+  "user": {
+    "$oid": "6a97c9caea8c40e3f7d28fac"
+  },
+  "deliveryAddress": {
+    "name": "Rajan Kushwaha",
+    "email": "rajankushwaha45998@gmail.com",
+    "phone": "9801475807",
+    "address": "A- 43 Ducat Sector 16, Noida ",
+    "pin": "202317",
+    "city": "Noida",
+    "state": "Uttar Pradesh"
+  },
+  "orderStatus": "Order Has Been Placed",
+  "paymentMode": "Netbaking",
+  "paymentStatus": "Pending",
+  "subtotal": 1500,
+  "shipping": 0,
+  "total": 1500,
+  "rppid": "",
+  "products": [
+    {
+      "product": {
+        "$oid": "66601858a94295cf3e059366"
+      },
+      "color": "blue",
+      "size": "24",
+      "quantity": 1,
+      "total": 1500,
+      "_id": {
+        "$oid": "6aacfe5e4c1eae8e665845e9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-09-18T09:03:33.243Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-18T09:03:33.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aacffaa4c1eae8e6658465c"
+  },
+  "user": {
+    "$oid": "6a97c9caea8c40e3f7d28fac"
+  },
+  "deliveryAddress": {
+    "name": "Rajan Kushwaha",
+    "email": "rajankushwaha45998@gmail.com",
+    "phone": "9801475807",
+    "address": "A- 43 Ducat Sector 16, Noida ",
+    "pin": "202317",
+    "city": "Noida",
+    "state": "Uttar Pradesh"
+  },
+  "orderStatus": "Order Has Been Placed",
+  "paymentMode": "Netbaking",
+  "paymentStatus": "Pending",
+  "subtotal": 225,
+  "shipping": 150,
+  "total": 375,
+  "rppid": "",
+  "products": [
+    {
+      "product": {
+        "$oid": "66601858a94295cf3e059364"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "quantity": 1,
+      "total": 225,
+      "_id": {
+        "$oid": "6aacffa44c1eae8e6658465b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-09-18T09:08:58.932Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-18T09:08:58.932Z"
+  },
+  "__v": 0
+}]

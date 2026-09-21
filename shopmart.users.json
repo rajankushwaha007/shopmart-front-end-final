@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6a97c9caea8c40e3f7d28fac"
+  },
+  "name": "Rajan Kushwaha",
+  "username": "rajan",
+  "email": "rajankushwaha45998@gmail.com",
+  "phone": "9801475807",
+  "password": "$2b$12$vsox1bGqVvYjLQWp4dv9VOiNVbGfvYNpwQ6Yot0zQRPtRszcoigy.",
+  "role": "Super Admin",
+  "status": true,
+  "__v": 1,
+  "address": [
+    {
+      "name": "Rajan Kushwaha",
+      "email": "rajankushwaha45998@gmail.com",
+      "phone": "9801475807",
+      "address": "A- 43 Ducat Sector 16, Noida ",
+      "pin": "202317",
+      "city": "Noida",
+      "state": "Uttar Pradesh"
+    }
+  ]
+}]

@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6a9aa9f7b0b179e9ce99abfc"
+  },
+  "question": "How can I place an order?",
+  "answer": "To place an order, browse through our products and select the item you want to purchase. Choose the required quantity or available options, then add it to your shopping cart. Review your cart carefully, provide your delivery details, select a payment method, and confirm your order."
+},
+{
+  "_id": {
+    "$oid": "6a9aa9f7b0b179e9ce99abfd"
+  },
+  "question": "What payment methods do you accept?",
+  "answer": "We accept multiple convenient payment methods to make your shopping experience easier. Depending on availability, you can pay using credit cards, debit cards, UPI, net banking, and other supported online payment options. All payments are processed through secure payment systems to help protect your financial and personal information."
+},
+{
+  "_id": {
+    "$oid": "6a9aa9f7b0b179e9ce99abfe"
+  },
+  "question": "How long will my order take to arrive?",
+  "answer": "Delivery time depends on your location, product availability, and the selected shipping method. Most orders are processed quickly after payment confirmation and delivered within the estimated timeframe shown during checkout. You can also track your order status to stay updated about processing, shipping, and final delivery."
+},
+{
+  "_id": {
+    "$oid": "6a9aa9f7b0b179e9ce99abff"
+  },
+  "question": "Can I track my order?",
+  "answer": "Yes, you can track your order after it has been shipped. Once your order is dispatched, tracking information may be provided through your account or registered contact details. Use the available tracking option to check the current status and follow your package until it reaches your delivery address."
+},
+{
+  "_id": {
+    "$oid": "6a9aa9f7b0b179e9ce99ac00"
+  },
+  "question": "Can I cancel my order after placing it?",
+  "answer": "You may be able to cancel your order if it has not already been processed or shipped. To request cancellation, check your order details and use the available cancellation option. Once an order has entered the shipping process, cancellation may not be possible and you may need to request a return."
+},
+{
+  "_id": {
+    "$oid": "6a9aa9f7b0b179e9ce99ac01"
+  },
+  "question": "What is your return policy?",
+  "answer": "We offer returns on eligible products according to our return policy. Products generally need to be unused, undamaged, and returned within the specified return period. Some products may have different eligibility requirements or exclusions. Please check the product and order details carefully before submitting a return request."
+},
+{
+  "_id": {
+    "$oid": "6a9aa9f7b0b179e9ce99ac02"
+  },
+  "question": "What should I do if I receive a damaged product?",
+  "answer": "If your product arrives damaged, contact our customer support team as soon as possible and provide your order details. You may also be asked to share photographs or other information about the damage. Our team will review your request and guide you through the available replacement, return, or refund process."
+},
+{
+  "_id": {
+    "$oid": "6a9aa9f7b0b179e9ce99ac03"
+  },
+  "question": "Do you provide free shipping?",
+  "answer": "Yes, free shipping may be available on eligible products and orders depending on the applicable shipping conditions. Shipping charges can vary based on product type, delivery location, order value, and selected delivery method. Any applicable shipping charges will be clearly displayed before you complete your purchase."
+},
+{
+  "_id": {
+    "$oid": "6a9aa9f7b0b179e9ce99ac04"
+  },
+  "question": "How can I contact customer support?",
+  "answer": "You can contact our customer support team whenever you need assistance with your orders, payments, deliveries, returns, or other shopping-related questions. Use the contact information available on our website to reach us. Please keep your order number ready when contacting support so we can assist you more quickly."
+},
+{
+  "_id": {
+    "$oid": "6a9aa9f7b0b179e9ce99ac05"
+  },
+  "question": "Is my personal information secure?",
+  "answer": "Yes, we take the security and privacy of your personal information seriously. Appropriate security measures are used to help protect information provided while browsing, creating an account, placing orders, and making payments. We also recommend keeping your account credentials private and avoiding sharing sensitive information with unauthorized individuals."
+}]

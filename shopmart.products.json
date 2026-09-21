@@ -1,0 +1,1538 @@
+[{
+  "_id": {
+    "$oid": "66601852a94295cf3e059360"
+  },
+  "name": "Female Jeans Regular Fit",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "66583785f4274a37aacea05f"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 4566,
+  "discount": 85,
+  "finalPrice": 684,
+  "stockQuantity": 20,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n</p>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fabric Care Description :: 80% Cotton,19% Polyester,1% Elastane, Machine wash</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fit Type :: Slim Fit</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Rise Type :: Mid Rise</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Closure Type :: Button &amp; Zip</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Stretchability :: Stretchable</span></li></ul>",
+  "pic": [
+    "public\\uploads\\product\\1717660182472286df0e6-5791-4393-81e0-1a7d7e3571561599456724282-SASSAFRAS-Women-Blue-Regular-Fit-Mid-Rise-Clean-Look-Stretch-1.webp",
+    "public\\uploads\\product\\171766018247390107bcbbd971b6c51fe78890de08c682d-aajeans.2x.rdeep-vertical.w245.jpg",
+    "public\\uploads\\product\\171766018247412431337HX_11_f.jpg",
+    "public\\uploads\\product\\171766018247687024771_TM_D3.webp"
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66601852a94295cf3e059361"
+  },
+  "name": "Female Tshirt Adidas",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "brand": {
+    "$oid": "6658379bf4274a37aacea06b"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 2548,
+  "discount": 45,
+  "finalPrice": 1401,
+  "stockQuantity": 17,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717660210821a86c8bfe4c4bbcd902543063c9af0d63.jpg",
+    "public\\uploads\\product\\1717660210825download (8).jpg",
+    "public\\uploads\\product\\1717660210825download 111.jpg"
+  ],
+  "__v": 1,
+  "status": true,
+  "updatedAt": {
+    "$date": "2026-03-10T06:24:43.363Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66601852a94295cf3e059362"
+  },
+  "name": "Kids TShirt COBB",
+  "maincategory": {
+    "$oid": "6658314cf4274a37aace9f7e"
+  },
+  "subcategory": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "brand": {
+    "$oid": "66583785f4274a37aacea05f"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 5480,
+  "discount": 90,
+  "finalPrice": 548,
+  "stockQuantity": 23,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717660256036download (17).jpg",
+    "public\\uploads\\product\\1717660256036download (19).jpg",
+    "public\\uploads\\product\\1717660256036pic6.jpeg",
+    "public\\uploads\\product\\1717660256037pic7.jpg"
+  ],
+  "__v": 1,
+  "status": true,
+  "updatedAt": {
+    "$date": "2026-03-10T06:35:08.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66601858a94295cf3e059363"
+  },
+  "name": "Female  Tshirt  ",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "brand": {
+    "$oid": "66583785f4274a37aacea05f"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 2456,
+  "discount": 90,
+  "finalPrice": 245,
+  "stockQuantity": 45,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">&nbsp;is simply dummy text of t<span style=\"font-style: italic;\">he printing and typesetting ind<span style=\"color: red;\">ustry. Lorem Ipsum has been the i</span>ndustry's standard dummy text ever since the 1500s, when an unknown printer took a galley of ty</span>pe and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic type\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span style=\"font-weight: bold;\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum pa</span>ssages, and more recently with desktop publishing software like Aldus PageMaker including versions of <span style=\"text-decoration-line: underline;\">Lorem Ipsum</span></span><span style=\"text-decoration-line: underline;\">\r\nly unchanged. It </span>was popularised in the 1960s with the release of Letraset sheets containing L<span style=\"background-color: yellow;\">orem Ipsum passages, and more recently with deskto</span>p publishing software like Aldus PageMaker including versions of Lorem Ipsum</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717660304045download (9).jpg",
+    "public\\uploads\\product\\1717660304045download (12).jpg",
+    "public\\uploads\\product\\1717660304045download 111.jpg",
+    "public\\uploads\\product\\1717660304045pic2.jpg"
+  ],
+  "__v": 14,
+  "status": true,
+  "updatedAt": {
+    "$date": "2026-03-02T06:45:10.353Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66601858a94295cf3e059364"
+  },
+  "name": "Female Tshirt Regular Fit",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "brand": {
+    "$oid": "6658377cf4274a37aacea059"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 4500,
+  "discount": 95,
+  "finalPrice": 225,
+  "stockQuantity": 10,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fabric Care Description :: 80% Cotton,19% Polyester,1% Elastane, Machine wash</span></li></ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fit Type :: Slim Fit</span></li></ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Rise Type :: Mid Rise</span></li></ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Closure Type :: Button &amp; Zip</span></li></ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Stretchability :: Stretchable</span></li></ul>",
+  "pic": [
+    "public\\uploads\\product\\1717660384858download (12).jpg",
+    "public\\uploads\\product\\1717660384859download 111.jpg",
+    "public\\uploads\\product\\1717660384860heather-grey-woman-tshirt-alfred-basha.jpg"
+  ],
+  "__v": 2,
+  "updatedAt": {
+    "$date": "2025-11-09T06:33:19.107Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "66601858a94295cf3e059365"
+  },
+  "name": "Female Jeans Gucci",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "66583765f4274a37aacea04e"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 1548,
+  "discount": 10,
+  "finalPrice": 1393,
+  "stockQuantity": 11,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717660441907images.jpg",
+    "public\\uploads\\product\\1717660441908pic5.jpg",
+    "public\\uploads\\product\\1717660441912pic17.jpg",
+    "public\\uploads\\product\\1717660441912pic18.jpg"
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2025-11-09T06:01:05.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66601858a94295cf3e059366"
+  },
+  "name": "Male Tshirt Tommy Hilfiger",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "brand": {
+    "$oid": "66583744f4274a37aacea037"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 15000,
+  "discount": 90,
+  "finalPrice": 1500,
+  "stockQuantity": 6,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\171766047091471EXBIPOaaL._AC_UY1000_.jpg",
+    "public\\uploads\\product\\171766047091871HG937KbSL._UX522_.jpg",
+    "public\\uploads\\product\\171766047091871J3DLk2F6L._UL1500_.jpg"
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2026-03-10T06:24:43.377Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6668096ade7316c1291ee496"
+  },
+  "name": "Kids Jeans Slim Fit",
+  "maincategory": {
+    "$oid": "6658314cf4274a37aace9f7e"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "6658375ef4274a37aacea04a"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 4500,
+  "discount": 25,
+  "finalPrice": 3375,
+  "stockQuantity": 23,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Nullam gravida velit nec nisi dapibus blandit vel a erat. Nulla sodales rutrum mi sed auctor. Fusce sed vehicula ipsum, vitae cursus lectus. Sed et quam eu nisi lobortis commodo eget in enim. Quisque convallis varius tortor, eget fermentum augue sagittis non. Praesent fringilla dignissim mollis. Aenean tempor lorem a metus auctor, eget suscipit ipsum venenatis. Quisque laoreet, dui at bibendum consectetur, tortor libero venenatis nibh, eget consequat enim turpis ut elit. Praesent vulputate nibh ex, ut tempus ex luctus ut. Aliquam elementum congue sem ac pulvinar. Morbi odio nunc, tincidunt ut tempor sed, elementum sit amet lorem. Mauris nunc tellus, bibendum nec blandit eu, consequat vel urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1718094186389download (17).jpg",
+    "public\\uploads\\product\\1718094186391download (19).jpg",
+    "public\\uploads\\product\\1718094186396pic6.jpeg",
+    "public\\uploads\\product\\1718094186396pic7.jpg"
+  ],
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2026-03-10T06:24:43.379Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "665d7c8082ca524e9476ce0f"
+  },
+  "name": "Male Jeans Slim Fit",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "66583791f4274a37aacea066"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 9850,
+  "discount": 90,
+  "finalPrice": 985,
+  "stockQuantity": 28,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">&nbsp;is simply dummy text of t<span style=\"font-style: italic;\">he printing and typesetting ind<span style=\"color: red;\">ustry. Lorem Ipsum has been the i</span>ndustry's standard dummy text ever since the 1500s, when an unknown printer took a galley of ty</span>pe and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic type\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span style=\"font-weight: bold;\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum pa</span>ssages, and more recently with desktop publishing software like Aldus PageMaker including versions of <span style=\"text-decoration-line: underline;\">Lorem Ipsum</span></span><span style=\"text-decoration-line: underline;\">\r\nly unchanged. It </span>was popularised in the 1960s with the release of Letraset sheets containing L<span style=\"background-color: yellow;\">orem Ipsum passages, and more recently with deskto</span>p publishing software like Aldus PageMaker including versions of Lorem Ipsum</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\17175738429741111.jpg",
+    "public\\uploads\\product\\17175738429751584477049-best-jeans-4-1584477027.jpg",
+    "public\\uploads\\product\\1717573842976blue-jeans.jpg",
+    "public\\uploads\\product\\1717573842983different-types-of-jeans-for-men-bewakoof-blog-3-1612875476.jpg",
+    "public\\uploads\\product\\1717573842996download (3).jpg"
+  ],
+  "__v": 15
+},
+{
+  "_id": {
+    "$oid": "666016a27f9d2c0c4880afb6"
+  },
+  "name": "Male Jeans Regular Fit",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "6658379bf4274a37aacea06b"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 4500,
+  "discount": 95,
+  "finalPrice": 225,
+  "stockQuantity": 16,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fabric Care Description :: 80% Cotton,19% Polyester,1% Elastane, Machine wash</span></li></ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fit Type :: Slim Fit</span></li></ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Rise Type :: Mid Rise</span></li></ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Closure Type :: Button &amp; Zip</span></li></ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Stretchability :: Stretchable</span></li></ul>",
+  "pic": [
+    "public\\uploads\\product\\1717573923773different-types-of-jeans-for-men-bewakoof-blog-3-1612875476.jpg",
+    "public\\uploads\\product\\1717573923798download (2).jpg",
+    "public\\uploads\\product\\1717573923798download (3).jpg"
+  ],
+  "__v": 3,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6660172f7679cfb24c3c2a3e"
+  },
+  "name": "Male Tshirt Adidas",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "brand": {
+    "$oid": "6658379bf4274a37aacea06b"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 4500,
+  "discount": 45,
+  "finalPrice": 2475,
+  "stockQuantity": 18,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\171757532477571EXBIPOaaL._AC_UY1000_.jpg",
+    "public\\uploads\\product\\171757532478471HG937KbSL._UX522_.jpg",
+    "public\\uploads\\product\\171757532479871J3DLk2F6L._UL1500_.jpg",
+    "public\\uploads\\product\\1717575309846pic19.jpg"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6660178b7679cfb24c3c2a61"
+  },
+  "name": "Male Shirt Tommy Hilfiger",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "66583533f4274a37aace9fd5"
+  },
+  "brand": {
+    "$oid": "66583744f4274a37aacea037"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 15000,
+  "discount": 90,
+  "finalPrice": 1500,
+  "stockQuantity": 30,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717576565642different-types-of-jeans-for-men-bewakoof-blog-3-1612875476.jpg",
+    "public\\uploads\\product\\1717576565644download (2).jpg",
+    "public\\uploads\\product\\1717576565644download (3).jpg"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6660182ea94295cf3e05934b"
+  },
+  "name": "Female Jeans Slim Fit",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "66583791f4274a37aacea066"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 9850,
+  "discount": 80,
+  "finalPrice": 1970,
+  "stockQuantity": 50,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">&nbsp;is simply dummy text of t<span style=\"font-style: italic;\">he printing and typesetting ind<span style=\"color: red;\">ustry. Lorem Ipsum has been the i</span>ndustry's standard dummy text ever since the 1500s, when an unknown printer took a galley of ty</span>pe and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic type\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span style=\"font-weight: bold;\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum pa</span>ssages, and more recently with desktop publishing software like Aldus PageMaker including versions of <span style=\"text-decoration-line: underline;\">Lorem Ipsum</span></span><span style=\"text-decoration-line: underline;\">\r\nly unchanged. It </span>was popularised in the 1960s with the release of Letraset sheets containing L<span style=\"background-color: yellow;\">orem Ipsum passages, and more recently with deskto</span>p publishing software like Aldus PageMaker including versions of Lorem Ipsum</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\17175737897846b600a1e01bd94fe8b35676ffd82a40041ae81b3_original.jpeg",
+    "public\\uploads\\product\\171757378980590107bcbbd971b6c51fe78890de08c682d-aajeans.2x.rdeep-vertical.w245.jpg",
+    "public\\uploads\\product\\171757378980612431337HX_11_f.jpg",
+    "public\\uploads\\product\\171757378981087024771_TM_D3.webp"
+  ],
+  "__v": 15
+},
+{
+  "_id": {
+    "$oid": "6660182ea94295cf3e05934c"
+  },
+  "name": "Female Jeans Regular Fit",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "66583765f4274a37aacea04e"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 3950,
+  "discount": 85,
+  "finalPrice": 592,
+  "stockQuantity": 20,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fabric Care Description :: 80% Cotton,19% Polyester,1% Elastane, Machine wash</span></li></ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fit Type :: Slim Fit</span></li></ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Rise Type :: Mid Rise</span></li></ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Closure Type :: Button &amp; Zip</span></li></ul>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Stretchability :: Stretchable</span></li></ul>",
+  "pic": [
+    "public\\uploads\\product\\171757553397490107bcbbd971b6c51fe78890de08c682d-aajeans.2x.rdeep-vertical.w245.jpg",
+    "public\\uploads\\product\\171757553397612431337HX_11_f.jpg",
+    "public\\uploads\\product\\171757553397687024771_TM_D3.webp",
+    "public\\uploads\\product\\1717575533978best-jeans-brands-women-luxe-digital@2x.jpg"
+  ],
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "6660182ea94295cf3e05934d"
+  },
+  "name": "Female Tshirt Zara",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "brand": {
+    "$oid": "66583765f4274a37aacea04e"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 8500,
+  "discount": 85,
+  "finalPrice": 1275,
+  "stockQuantity": 10,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717575753367download (8).jpg",
+    "public\\uploads\\product\\1717575753371download (9).jpg",
+    "public\\uploads\\product\\1717575753371download (10).jpg",
+    "public\\uploads\\product\\1717575753372download (12).jpg",
+    "public\\uploads\\product\\1717575753375download 111.jpg"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6660182ea94295cf3e05934e"
+  },
+  "name": "Female  Shirt Nike",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "66583533f4274a37aace9fd5"
+  },
+  "brand": {
+    "$oid": "66583757f4274a37aacea044"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 1500,
+  "discount": 50,
+  "finalPrice": 750,
+  "stockQuantity": 30,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717576425453download (9).jpg",
+    "public\\uploads\\product\\1717576425455download (10).jpg",
+    "public\\uploads\\product\\1717576425456download (11).jpg",
+    "public\\uploads\\product\\1717576425458download (12).jpg",
+    "public\\uploads\\product\\1717576425462download 111.jpg"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "66601835a94295cf3e05934f"
+  },
+  "name": "Kids Jeans Mufti",
+  "maincategory": {
+    "$oid": "6658314cf4274a37aace9f7e"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "66583791f4274a37aacea066"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 985,
+  "discount": 9,
+  "finalPrice": 896,
+  "stockQuantity": 50,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">&nbsp;is simply dummy text of t<span style=\"font-style: italic;\">he printing and typesetting ind<span style=\"color: red;\">ustry. Lorem Ipsum has been the i</span>ndustry's standard dummy text ever since the 1500s, when an unknown printer took a galley of ty</span>pe and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic type\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span style=\"font-weight: bold;\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum pa</span>ssages, and more recently with desktop publishing software like Aldus PageMaker including versions of <span style=\"text-decoration-line: underline;\">Lorem Ipsum</span></span><span style=\"text-decoration-line: underline;\">\r\nly unchanged. It </span>was popularised in the 1960s with the release of Letraset sheets containing L<span style=\"background-color: yellow;\">orem Ipsum passages, and more recently with deskto</span>p publishing software like Aldus PageMaker including versions of Lorem Ipsum</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717576741313images.jpg",
+    "public\\uploads\\product\\1717576741314pic9.jpg",
+    "public\\uploads\\product\\1717576741314pic11.jpg",
+    "public\\uploads\\product\\1717576741344pic15.jpg",
+    "public\\uploads\\product\\1717576741346pic16.jpg"
+  ],
+  "__v": 16
+},
+{
+  "_id": {
+    "$oid": "66601835a94295cf3e059350"
+  },
+  "name": "Kids Jeans Regular Fit",
+  "maincategory": {
+    "$oid": "6658314cf4274a37aace9f7e"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "6658379bf4274a37aacea06b"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 1548,
+  "discount": 13,
+  "finalPrice": 1346,
+  "stockQuantity": 20,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n</p>\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fabric Care Description :: 80% Cotton,19% Polyester,1% Elastane, Machine wash</span></li></ul>\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fit Type :: Slim Fit</span></li></ul>\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Rise Type :: Mid Rise</span></li></ul>\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Closure Type :: Button &amp; Zip</span></li></ul>\r\n\r\n\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Stretchability :: Stretchable</span></li></ul>",
+  "pic": [
+    "public\\uploads\\product\\1717576861420pic6.jpeg",
+    "public\\uploads\\product\\1717576861421pic7.jpg"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "66601835a94295cf3e059351"
+  },
+  "name": "Kids Tshirt Adidas",
+  "maincategory": {
+    "$oid": "6658314cf4274a37aace9f7e"
+  },
+  "subcategory": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "brand": {
+    "$oid": "6658377cf4274a37aacea059"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 3540,
+  "discount": 45,
+  "finalPrice": 1947,
+  "stockQuantity": 20,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717576928979download12218.jpg",
+    "public\\uploads\\product\\1717576928980exclusive-children-jeans-500x500.jpg",
+    "public\\uploads\\product\\1717576929127girl_32.png",
+    "public\\uploads\\product\\1717576929138pic1.jpg"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "66601835a94295cf3e059352"
+  },
+  "name": "Kids Shirt Tommy Hilfiger",
+  "maincategory": {
+    "$oid": "6658314cf4274a37aace9f7e"
+  },
+  "subcategory": {
+    "$oid": "66583533f4274a37aace9fd5"
+  },
+  "brand": {
+    "$oid": "66583744f4274a37aacea037"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 758,
+  "discount": 10,
+  "finalPrice": 682,
+  "stockQuantity": 30,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717577113559d366ebdcffed9ee15f1f0e541e4c4efb.jpg"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6660183ba94295cf3e059353"
+  },
+  "name": "Male Jeans Slim Fit",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "66583785f4274a37aacea05f"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 2480,
+  "discount": 50,
+  "finalPrice": 1240,
+  "stockQuantity": 50,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">&nbsp;is simply dummy text of t<span style=\"font-style: italic;\">he printing and typesetting ind<span style=\"color: red;\">ustry. Lorem Ipsum has been the i</span>ndustry's standard dummy text ever since the 1500s, when an unknown printer took a galley of ty</span>pe and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic type\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span style=\"font-weight: bold;\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum pa</span>ssages, and more recently with desktop publishing software like Aldus PageMaker including versions of <span style=\"text-decoration-line: underline;\">Lorem Ipsum</span></span><span style=\"text-decoration-line: underline;\">\r\nly unchanged. It </span>was popularised in the 1960s with the release of Letraset sheets containing L<span style=\"background-color: yellow;\">orem Ipsum passages, and more recently with deskto</span>p publishing software like Aldus PageMaker including versions of Lorem Ipsum</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717577248576Hf8d12c893ca541449140c827a7a82256G.jpg",
+    "public\\uploads\\product\\1717577248598im-247893.jpg",
+    "public\\uploads\\product\\1717577248638images (1).jpg",
+    "public\\uploads\\product\\1717577248778images (2).jpg"
+  ],
+  "__v": 14
+},
+{
+  "_id": {
+    "$oid": "6660183ba94295cf3e059354"
+  },
+  "name": "Male Jeans Cobb",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "66583785f4274a37aacea05f"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 4500,
+  "discount": 50,
+  "finalPrice": 2250,
+  "stockQuantity": 20,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n</p>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fabric Care Description :: 80% Cotton,19% Polyester,1% Elastane, Machine wash</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fit Type :: Slim Fit</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Rise Type :: Mid Rise</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Closure Type :: Button &amp; Zip</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Stretchability :: Stretchable</span></li></ul>",
+  "pic": [
+    "public\\uploads\\product\\171757734604632-ak-2036-killer-original-imag3x5t9axyg39s.jpeg",
+    "public\\uploads\\product\\17175773460481584477049-best-jeans-4-1584477027.jpg"
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6660183ba94295cf3e059355"
+  },
+  "name": "Male Tshirt Nike",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "brand": {
+    "$oid": "66583757f4274a37aacea044"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 2540,
+  "discount": 45,
+  "finalPrice": 1397,
+  "stockQuantity": 20,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717577388950images (5).jpg",
+    "public\\uploads\\product\\1717577388951images (8).jpg",
+    "public\\uploads\\product\\1717577388952pic8.jpeg",
+    "public\\uploads\\product\\1717577388966pic19.jpg",
+    "public\\uploads\\product\\1717577388966pic20.gif"
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6660183ba94295cf3e059356"
+  },
+  "name": "Male Shirt Adidas",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "66583533f4274a37aace9fd5"
+  },
+  "brand": {
+    "$oid": "6658379bf4274a37aacea06b"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 4560,
+  "discount": 90,
+  "finalPrice": 456,
+  "stockQuantity": 30,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717659616163p25.jpg",
+    "public\\uploads\\product\\1717659616183p26.jpg"
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66601842a94295cf3e059357"
+  },
+  "name": "Female Trouser Black",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "6658352ef4274a37aace9fd0"
+  },
+  "brand": {
+    "$oid": "66583770f4274a37aacea053"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 1250,
+  "discount": 12,
+  "finalPrice": 1100,
+  "stockQuantity": 50,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">&nbsp;is simply dummy text of t<span style=\"font-style: italic;\">he printing and typesetting ind<span style=\"color: red;\">ustry. Lorem Ipsum has been the i</span>ndustry's standard dummy text ever since the 1500s, when an unknown printer took a galley of ty</span>pe and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic type\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span style=\"font-weight: bold;\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum pa</span>ssages, and more recently with desktop publishing software like Aldus PageMaker including versions of <span style=\"text-decoration-line: underline;\">Lorem Ipsum</span></span><span style=\"text-decoration-line: underline;\">\r\nly unchanged. It </span>was popularised in the 1960s with the release of Letraset sheets containing L<span style=\"background-color: yellow;\">orem Ipsum passages, and more recently with deskto</span>p publishing software like Aldus PageMaker including versions of Lorem Ipsum</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717659675258p69.jpg",
+    "public\\uploads\\product\\1717659675270p70.jpg",
+    "public\\uploads\\product\\1717659675283p71.jpg",
+    "public\\uploads\\product\\1717659675325p72.jpg"
+  ],
+  "__v": 14
+},
+{
+  "_id": {
+    "$oid": "66601842a94295cf3e059358"
+  },
+  "name": "Kids Jeans Black",
+  "maincategory": {
+    "$oid": "6658314cf4274a37aace9f7e"
+  },
+  "subcategory": {
+    "$oid": "6658352ef4274a37aace9fd0"
+  },
+  "brand": {
+    "$oid": "66583785f4274a37aacea05f"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 3578,
+  "discount": 75,
+  "finalPrice": 894,
+  "stockQuantity": 15,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n</p>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fabric Care Description :: 80% Cotton,19% Polyester,1% Elastane, Machine wash</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fit Type :: Slim Fit</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Rise Type :: Mid Rise</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Closure Type :: Button &amp; Zip</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Stretchability :: Stretchable</span></li></ul>",
+  "pic": [
+    "public\\uploads\\product\\1717659762746p62.jpg",
+    "public\\uploads\\product\\1717659762794p63.jpg",
+    "public\\uploads\\product\\1717659762822p64.jpg",
+    "public\\uploads\\product\\1717659762835p66.jpg",
+    "public\\uploads\\product\\1717659762844p67.jpg"
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66601842a94295cf3e059359"
+  },
+  "name": "Male Tshirt Adidas",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "brand": {
+    "$oid": "6658379bf4274a37aacea06b"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 4500,
+  "discount": 67,
+  "finalPrice": 1485,
+  "stockQuantity": 18,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717659801935p3.jpg",
+    "public\\uploads\\product\\1717659801960p51.jpg",
+    "public\\uploads\\product\\1717659801980p52.jpg"
+  ],
+  "__v": 1,
+  "status": true,
+  "updatedAt": {
+    "$date": "2026-03-10T06:42:18.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66601842a94295cf3e05935a"
+  },
+  "name": "Male Shirt Mufti",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "66583533f4274a37aace9fd5"
+  },
+  "brand": {
+    "$oid": "66583791f4274a37aacea066"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 7548,
+  "discount": 75,
+  "finalPrice": 1887,
+  "stockQuantity": 29,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717659868891blue-jeans.jpg"
+  ],
+  "__v": 1,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "66601848a94295cf3e05935b"
+  },
+  "name": "Female Jeans Slim Fit",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "66583791f4274a37aacea066"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 7584,
+  "discount": 84,
+  "finalPrice": 1213,
+  "stockQuantity": 48,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">&nbsp;is simply dummy text of t<span style=\"font-style: italic;\">he printing and typesetting ind<span style=\"color: red;\">ustry. Lorem Ipsum has been the i</span>ndustry's standard dummy text ever since the 1500s, when an unknown printer took a galley of ty</span>pe and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic type\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span style=\"font-weight: bold;\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum pa</span>ssages, and more recently with desktop publishing software like Aldus PageMaker including versions of <span style=\"text-decoration-line: underline;\">Lorem Ipsum</span></span><span style=\"text-decoration-line: underline;\">\r\nly unchanged. It </span>was popularised in the 1960s with the release of Letraset sheets containing L<span style=\"background-color: yellow;\">orem Ipsum passages, and more recently with deskto</span>p publishing software like Aldus PageMaker including versions of Lorem Ipsum</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717659918083download.jpg",
+    "public\\uploads\\product\\1717659918083pic17.jpg",
+    "public\\uploads\\product\\1717659918091pic18.jpg"
+  ],
+  "__v": 14,
+  "updatedAt": {
+    "$date": "2025-11-09T06:33:19.102Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66601848a94295cf3e05935c"
+  },
+  "name": "Female Jeans Mufti",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "66583791f4274a37aacea066"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 45650,
+  "discount": 95,
+  "finalPrice": 2282,
+  "stockQuantity": 19,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n</p>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fabric Care Description :: 80% Cotton,19% Polyester,1% Elastane, Machine wash</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Fit Type :: Slim Fit</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Rise Type :: Mid Rise</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Closure Type :: Button &amp; Zip</span></li></ul>\r\n\r\n\r\n<ul class=\"a-unordered-list a-vertical a-spacing-small\" style=\" margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\"><li style=\" list-style: disc; overflow-wrap: break-word\"><span class=\"a-list-item a-size-base a-color-base\" style=\" font-size: 14px !important; line-height: 20px !important; color: rgb(15, 17, 17)\">Stretchability :: Stretchable</span></li></ul>",
+  "pic": [
+    "public\\uploads\\product\\1717659978080p9.jpg",
+    "public\\uploads\\product\\1717659978125p12.jpg",
+    "public\\uploads\\product\\1717659978151p53.jpg",
+    "public\\uploads\\product\\1717659978239p55.jpg"
+  ],
+  "__v": 1,
+  "status": true,
+  "updatedAt": {
+    "$date": "2026-03-10T06:42:18.655Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66601848a94295cf3e05935d"
+  },
+  "name": "Female Tshirt Adidas",
+  "maincategory": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "subcategory": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "brand": {
+    "$oid": "6658379bf4274a37aacea06b"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 3584,
+  "discount": 65,
+  "finalPrice": 1254,
+  "stockQuantity": 18,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\1717660035353p6.jpg",
+    "public\\uploads\\product\\1717660035422p8.jpg",
+    "public\\uploads\\product\\1717660035449p9.jpg",
+    "public\\uploads\\product\\1717660035486p22.jpg",
+    "public\\uploads\\product\\1717660035523p23.jpg",
+    "public\\uploads\\product\\1717660035533p28.jpg",
+    "public\\uploads\\product\\1717660035553p39.jpg"
+  ],
+  "__v": 1,
+  "status": true,
+  "updatedAt": {
+    "$date": "2026-03-10T06:42:18.647Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66601848a94295cf3e05935e"
+  },
+  "name": "Male TShirt Tommy Hilfiger",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "66583533f4274a37aace9fd5"
+  },
+  "brand": {
+    "$oid": "66583744f4274a37aacea037"
+  },
+  "color": [
+    "white",
+    "blue",
+    "black",
+    "green",
+    "red",
+    "purple",
+    "pink"
+  ],
+  "size": [
+    "xxxl",
+    "xxl",
+    "xl",
+    "lg",
+    "sm",
+    "md",
+    "xs"
+  ],
+  "basePrice": 4560,
+  "discount": 90,
+  "finalPrice": 456,
+  "stockQuantity": 30,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac fermentum ligula. Nullam fringilla vestibulum augue, a mattis dui consectetur vitae. Mauris facilisis tempor nibh, a pulvinar augue sagittis ac. Duis ac sem sed nisl feugiat ullamcorper. Morbi ut accumsan ante. Pellentesque eget pellentesque lacus. Fusce auctor ut tortor sed efficitur. Vivamus tincidunt, erat a lacinia fermentum, magna augue sodales nunc, in porttitor neque dui at augue. Praesent in condimentum massa.</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\171766007984871EXBIPOaaL._AC_UY1000_.jpg",
+    "public\\uploads\\product\\171766007987671HG937KbSL._UX522_.jpg",
+    "public\\uploads\\product\\171766007988071J3DLk2F6L._UL1500_.jpg",
+    "public\\uploads\\product\\1717660079891download14.jpg",
+    "public\\uploads\\product\\1717660079891images (6).jpg",
+    "public\\uploads\\product\\1717660079891images (8).jpg"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "66601852a94295cf3e05935f"
+  },
+  "name": "Male Jeans Slim Fit",
+  "maincategory": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "subcategory": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "brand": {
+    "$oid": "66583785f4274a37aacea05f"
+  },
+  "color": [
+    "blue",
+    "black"
+  ],
+  "size": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "basePrice": 2546,
+  "discount": 90,
+  "finalPrice": 254,
+  "stockQuantity": 48,
+  "stock": true,
+  "active": true,
+  "description": "<p>\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">&nbsp;is simply dummy text of t<span style=\"font-style: italic;\">he printing and typesetting ind<span style=\"color: red;\">ustry. Lorem Ipsum has been the i</span>ndustry's standard dummy text ever since the 1500s, when an unknown printer took a galley of ty</span>pe and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic type\r\n\r\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span style=\"font-weight: bold;\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum pa</span>ssages, and more recently with desktop publishing software like Aldus PageMaker including versions of <span style=\"text-decoration-line: underline;\">Lorem Ipsum</span></span><span style=\"text-decoration-line: underline;\">\r\nly unchanged. It </span>was popularised in the 1960s with the release of Letraset sheets containing L<span style=\"background-color: yellow;\">orem Ipsum passages, and more recently with deskto</span>p publishing software like Aldus PageMaker including versions of Lorem Ipsum</span>\r\n<br /></p>",
+  "pic": [
+    "public\\uploads\\product\\171766011334132-ak-2036-killer-original-imag3x5t9axyg39s.jpeg",
+    "public\\uploads\\product\\17176601133411584477049-best-jeans-4-1584477027.jpg",
+    "public\\uploads\\product\\1717660113358blue-jeans.jpg"
+  ],
+  "__v": 14,
+  "updatedAt": {
+    "$date": "2025-11-22T06:33:44.052Z"
+  }
+}]

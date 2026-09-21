@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "6658314cf4274a37aace9f7e"
+  },
+  "name": "Kids",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\maincategory\\1733029333246kids.jpg"
+},
+{
+  "_id": {
+    "$oid": "66583282f4274a37aace9f8a"
+  },
+  "name": "Female",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\maincategory\\1771999936735banner5.jpg",
+  "status": true,
+  "updatedAt": {
+    "$date": "2026-02-25T06:12:16.778Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665834a2f4274a37aace9fa3"
+  },
+  "name": "Male",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\maincategory\\1771999946696banner1.jpg",
+  "status": true,
+  "updatedAt": {
+    "$date": "2026-02-25T06:12:26.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674bed61cfabcaa3b62016a5"
+  },
+  "name": "Electronics",
+  "active": false,
+  "pic": "public\\uploads\\maincategory\\1733029217516electronics.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e92dddb46a1dd74c36584"
+  },
+  "name": "Gym Equipments",
+  "status": true,
+  "pic": "public\\uploads\\maincategory\\1771999965802pexels-pixabay-221247.jpg",
+  "createdAt": {
+    "$date": "2026-02-25T06:12:45.805Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:12:45.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e92e8db46a1dd74c3658c"
+  },
+  "name": "Furniture",
+  "status": true,
+  "pic": "public\\uploads\\maincategory\\1771999976905banner11.jpg",
+  "createdAt": {
+    "$date": "2026-02-25T06:12:56.928Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:12:56.928Z"
+  },
+  "__v": 0
+}]

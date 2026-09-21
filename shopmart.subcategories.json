@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "6658352ef4274a37aace9fd0"
+  },
+  "name": "Trouser",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\subcategory\\1733029441297trouser.jpg"
+},
+{
+  "_id": {
+    "$oid": "66583533f4274a37aace9fd5"
+  },
+  "name": "Shirt",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\subcategory\\1733029448298shirt.jpg"
+},
+{
+  "_id": {
+    "$oid": "6658353df4274a37aace9fdc"
+  },
+  "name": "Tshirt",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\subcategory\\1733029455864tshirt.jpg"
+},
+{
+  "_id": {
+    "$oid": "6658357ef4274a37aace9ffd"
+  },
+  "name": "Jeans",
+  "active": true,
+  "__v": 0,
+  "pic": "public\\uploads\\subcategory\\1733029461972jeans.jpg"
+},
+{
+  "_id": {
+    "$oid": "699e931fdb46a1dd74c365b8"
+  },
+  "name": "Airbuds",
+  "status": true,
+  "pic": "public\\uploads\\subcategory\\1772000031428istockphoto-1302423218-612x612.jpg",
+  "createdAt": {
+    "$date": "2026-02-25T06:13:51.441Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:13:51.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e9329db46a1dd74c365c0"
+  },
+  "name": "Tables",
+  "status": true,
+  "pic": "public\\uploads\\subcategory\\1772000041146pexels-andreaedavis-2829030.jpg",
+  "createdAt": {
+    "$date": "2026-02-25T06:14:01.150Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:14:01.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e9333db46a1dd74c365c8"
+  },
+  "name": "Sofa",
+  "status": true,
+  "pic": "public\\uploads\\subcategory\\1772000051151pexels-designecologist-1248583.jpg",
+  "createdAt": {
+    "$date": "2026-02-25T06:14:11.152Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:14:11.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e935cdb46a1dd74c365d0"
+  },
+  "name": "Head Phones",
+  "status": true,
+  "pic": "public\\uploads\\subcategory\\1772000092947pexels-garrettmorrow-1649771.jpg",
+  "createdAt": {
+    "$date": "2026-02-25T06:14:52.951Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:14:52.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e9365db46a1dd74c365d8"
+  },
+  "name": "Laptops",
+  "status": true,
+  "pic": "public\\uploads\\subcategory\\1772000101667pexels-life-of-pix-7974.jpg",
+  "createdAt": {
+    "$date": "2026-02-25T06:15:01.672Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:15:01.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e9382db46a1dd74c365e0"
+  },
+  "name": "Smart Phones",
+  "status": true,
+  "pic": "public\\uploads\\subcategory\\1772000130044pexels-pixabay-163065.jpg",
+  "createdAt": {
+    "$date": "2026-02-25T06:15:30.049Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:15:30.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e938ddb46a1dd74c365e8"
+  },
+  "name": "Smart Watches",
+  "status": true,
+  "pic": "public\\uploads\\subcategory\\1772000174402pexels-tdcat-437037.jpg",
+  "createdAt": {
+    "$date": "2026-02-25T06:15:41.186Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:16:14.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e93a1db46a1dd74c365f0"
+  },
+  "name": "Gym Equipments",
+  "status": true,
+  "pic": "public\\uploads\\subcategory\\1772000161490pexels-victorfreitas-841130.jpg",
+  "createdAt": {
+    "$date": "2026-02-25T06:16:01.495Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:16:01.495Z"
+  },
+  "__v": 0
+}]
