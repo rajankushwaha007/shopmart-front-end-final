@@ -1,0 +1,68 @@
+warning: in the working copy of 'backend/routes/maincategory.route.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'backend/routes/product.route.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'backend/routes/setting.route.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'backend/routes/user.route.js', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/backend/routes/maincategory.route.js b/backend/routes/maincategory.route.js[m
+[1mindex f77853c..70e3491 100644[m
+[1m--- a/backend/routes/maincategory.route.js[m
+[1m+++ b/backend/routes/maincategory.route.js[m
+[36m@@ -10,8 +10,8 @@[m [mconst {[m
+ } = require("../controllers/maincategory.controller")[m
+ [m
+ MaincategoryRouter.post("", verifyAdmin, maincategoryUploader.single('pic'), createRecord)[m
+[31m-MaincategoryRouter.get("", verifyPublic, getRecord)[m
+[31m-MaincategoryRouter.get("/:_id", verifyPublic, getSingleRecord)[m
+[32m+[m[32mMaincategoryRouter.get("", getRecord)[m
+[32m+[m[32mMaincategoryRouter.get("/:_id", getSingleRecord)[m
+ MaincategoryRouter.put("/:_id", verifyAdmin, maincategoryUploader.single('pic'), updateRecord)[m
+ MaincategoryRouter.delete("/:_id", verifySuperAdmin, deleteRecord)[m
+ [m
+[1mdiff --git a/backend/routes/product.route.js b/backend/routes/product.route.js[m
+[1mindex 3c857c7..e09ea50 100644[m
+[1m--- a/backend/routes/product.route.js[m
+[1m+++ b/backend/routes/product.route.js[m
+[36m@@ -1,6 +1,6 @@[m
+ const ProductRouter = require("express").Router()[m
+ const { productUploader } = require("../middleware/fileUploader.middleware")[m
+[31m-const { verifyPublic, verifyAdmin, verifySuperAdmin, verifyBuyer } = require("../middleware/auth.middleware")[m
+[32m+[m[32mconst { verifyAdmin, verifySuperAdmin, verifyBuyer } = require("../middleware/auth.middleware")[m
+ const {[m
+     createRecord,[m
+     getRecord,[m
+[36m@@ -11,8 +11,8 @@[m [mconst {[m
+ } = require("../controllers/product.controller")[m
+ [m
+ ProductRouter.post("", verifyAdmin, productUploader.array('pic'), createRecord)[m
+[31m-ProductRouter.get("", verifyPublic, getRecord)[m
+[31m-ProductRouter.get("/:_id", verifyPublic, getSingleRecord)[m
+[32m+[m[32mProductRouter.get("", getRecord)[m
+[32m+[m[32mProductRouter.get("/:_id", getSingleRecord)[m
+ ProductRouter.put("/:_id", verifyAdmin, productUploader.array('pic'), updateRecord)[m
+ ProductRouter.put("/user/:_id", verifyBuyer, updateRecordByUser)[m
+ ProductRouter.delete("/:_id", verifySuperAdmin, deleteRecord)[m
+[1mdiff --git a/backend/routes/setting.route.js b/backend/routes/setting.route.js[m
+[1mindex e2886ec..78944b3 100644[m
+[1m--- a/backend/routes/setting.route.js[m
+[1m+++ b/backend/routes/setting.route.js[m
+[36m@@ -6,6 +6,6 @@[m [mconst {[m
+ } = require("../controllers/setting.controller")[m
+ [m
+ SettingRouter.post("", verifyAdmin, createRecord)[m
+[31m-SettingRouter.get("", verifyPublic, getRecord)[m
+[32m+[m[32mSettingRouter.get("", getRecord)[m
+ [m
+ module.exports = SettingRouter[m
+\ No newline at end of file[m
+[1mdiff --git a/backend/routes/user.route.js b/backend/routes/user.route.js[m
+[1mindex 1539b3a..c08bb0b 100644[m
+[1m--- a/backend/routes/user.route.js[m
+[1m+++ b/backend/routes/user.route.js[m
+[36m@@ -12,7 +12,7 @@[m [mconst {[m
+     forgetPassword3[m
+ } = require("../controllers/user.controller")[m
+ [m
+[31m-UserRouter.post("", verifyPublic, createRecord)[m
+[32m+[m[32mUserRouter.post("", createRecord)[m
+ UserRouter.get("", verifyBuyer, getRecord)[m
+ UserRouter.get("/:_id", verifyBuyer, getSingleRecord)[m
+ UserRouter.put("/:_id", verifyBuyer, updateRecord)[m
