@@ -67,6 +67,9 @@ import AdminUserUpdatePage from './Pages/Admin/User/AdminUserUpdatePage'
 import ForgetPasswordPage1 from './Pages/User/ForgetPasswordPage1'
 import ForgetPasswordPage2 from './Pages/User/ForgetPasswordPage2'
 import ForgetPasswordPage3 from './Pages/User/ForgetPasswordPage3'
+import AIAssistantPage from './Pages/AIAssistantPage'
+import FloatingAIAssistant from "./Components/FloatingAIAssistant"
+
 export default function App() {
   return (
     <BrowserRouter>
@@ -75,6 +78,7 @@ export default function App() {
         <Route path='' element={<HomePage />} />
         <Route path='/about' element={<AboutPage />} />
         <Route path='/shop' element={<ShopPage />} />
+        <Route path='/ai-assistant' element={<AIAssistantPage />} />
         <Route path='/product/:_id' element={<ProductPage />} />
         <Route path='/feature' element={<FeaturePage />} />
         <Route path='/faq' element={<FaqPage />} />
@@ -152,6 +156,7 @@ export default function App() {
         <Route path='/*' element={<ErrorPage />} />
 
       </Routes>
+      <FloatingAIAssistant />
       <Footer />
     </BrowserRouter>
   )

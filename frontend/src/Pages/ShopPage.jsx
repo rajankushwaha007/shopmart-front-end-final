@@ -56,15 +56,61 @@ export default function ShopPage() {
     }
 
     function applySearchFilter(option = null) {
-        let ch = option ? option?.toLocaleLowerCase() : search?.toLocaleLowerCase()
+
+        let ch = option
+            ? option.toLocaleLowerCase()
+            : search.toLocaleLowerCase()
+
+        // Empty search → default products
+        if (!ch.trim()) {
+
+            let items = ProductStateData.filter(x => x.status)
+
+            setSelected({
+                maincategory: [],
+                subcategory: [],
+                brand: [],
+                color: [],
+                size: [],
+            })
+
+            applySortFilter(sortFilter, items)
+
+            return
+        }
+
         let items = ProductStateData.filter(x => x.status && (
-            (x.name?.toLocaleLowerCase()?.includes(ch)) ||
-            (x.maincategory?.toLocaleLowerCase() === ch) ||
-            (x.subcategory?.toLocaleLowerCase() === ch) ||
-            (x.brand?.toLocaleLowerCase() === ch) ||
-            (x.color?.includes(ch)) ||
-            (x.description?.toLocaleLowerCase()?.includes(ch))
+
+            // Product Name
+            x.name?.toLocaleLowerCase().includes(ch) ||
+
+            // Main Category
+            x.maincategory?.name?.toLocaleLowerCase().includes(ch) ||
+
+            // Sub Category
+            x.subcategory?.name?.toLocaleLowerCase().includes(ch) ||
+
+            // Brand
+            x.brand?.name?.toLocaleLowerCase().includes(ch) ||
+
+            // Color
+            x.color?.some(color =>
+                color?.toLocaleLowerCase().includes(ch)
+            ) ||
+
+            // Description
+            x.description?.toLocaleLowerCase().includes(ch)
+
         ))
+
+        // No matching product → show first 24 products
+        if (items.length === 0) {
+
+            items = ProductStateData
+                .filter(x => x.status)
+                .slice(0, 24)
+        }
+
         setSelected({
             maincategory: [],
             subcategory: [],
@@ -72,6 +118,7 @@ export default function ShopPage() {
             color: [],
             size: [],
         })
+
         applySortFilter(sortFilter, items)
     }
 
