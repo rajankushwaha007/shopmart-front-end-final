@@ -108,7 +108,7 @@ const AIAssistant = () => {
             setQuestion(userQuestion)
 
             const response = await fetch(
-                "http://localhost:8000/api/ai/assistant",
+                "https://shopmart-server-final-0dwi.onrender.com/api/ai/assistant",
                 {
                     method: "POST",
                     headers: {
