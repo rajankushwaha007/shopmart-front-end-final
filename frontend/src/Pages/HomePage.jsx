@@ -94,7 +94,12 @@ export default function HomePage() {
           </div>
           <div className="col-12 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay="0.1s">
             <div className="carousel-header-banner h-100">
-              <img src={`${import.meta.env.VITE_APP_IMAGE_SERVER}${data.pic[0]}`} className="img-fluid w-100 h-100" style={{ objectFit: "cover" }} alt="Image" />
+              <img
+                src={`https://shopmart-server-final-0dwi.onrender.com/public/${data.pic?.[0]?.replaceAll("\\", "/").replace(/^\/+/, "").replace(/^public\//, "")}`}
+                className="img-fluid w-100 h-100"
+                style={{ objectFit: "cover" }}
+                alt="Image"
+              />
               <div className="carousel-banner-offer">
                 <p className="bg-primary text-white rounded fs-5 py-2 px-4 mb-0 me-3">Save &#8377;{data.basePrice - data.finalPrice}</p>
                 <p className="text-light fs-5 fw-bold mb-0">{data.discount}% Off</p>
