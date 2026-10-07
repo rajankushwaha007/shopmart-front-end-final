@@ -108,7 +108,7 @@ const AIAssistant = () => {
             setQuestion(userQuestion)
 
             const response = await fetch(
-                "https://shopmart-server-final-0dwi.onrender.com/api/ai/assistant",
+                 `${import.meta.env.VITE_API_URL}/api/ai/assistant`,
                 {
                     method: "POST",
                     headers: {
@@ -122,14 +122,21 @@ const AIAssistant = () => {
 
             const data = await response.json()
 
-            if (data.success) {
+            console.log("AI Response Status:", response.status)
+            console.log("AI Response Data:", data)
+
+            if (response.ok && data.success) {
 
                 setAnswer(data.answer)
                 setProducts(data.products || [])
 
             } else {
 
-                setAnswer("Sorry, something went wrong.")
+                setAnswer(
+                    data.message ||
+                    data.error ||
+                    "Sorry, something went wrong."
+                )
 
             }
 
